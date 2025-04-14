@@ -22,5 +22,15 @@ A React + TypeScript application that displays bike-sharing networks across Spai
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/kaira-bike-networks.git
+git clone https://github.com/AlfonsoG93/kaira-bike-networks.git
 cd kaira-bike-networks
+
+
+### 2. Install dependencies
+npm install
+
+
+### 3. Start the dev server
+npm run dev
+
+App will be available at: http://localhost:5173
