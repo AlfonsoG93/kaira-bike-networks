@@ -1,0 +1,24 @@
+
+{
+  "title": "Bike Networks in Spain",
+  "lang_es": "Spanish",
+  "lang_en": "English",
+  "loading_networks": "Loading networks...",
+  "error_networks": "Error loading networks.",
+  "company_unknown": "Unknown",
+  "loading_stations": "Loading stations...",
+  "error_stations": "Error loading stations.",
+  "showing_stations": "Showing {{count}} stations in the selected network",
+  "back": "← Back to networks",
+  "order_by_availability": "Order by availability",
+  "higher_to_lower": "High → Low",
+  "lower_to_higher": "Low → High",
+  "free_bikes": "Free bikes",
+  "empty_slots": "Empty slots",
+  "view_on_map": "View on Google Maps",
+  "low": "Low",
+  "medium": "Medium",
+  "high": "High",
+  "time_minutes_ago": "{{count}} min ago",
+  "time_hours_ago": "{{count}}h ago"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Redes de Bicicletas en España",
+  "lang_es": "Español",
+  "lang_en": "Ingles",
+  "loading_networks": "Cargando redes...",
+  "error_networks": "Error al cargar las redes.",
+  "company_unknown": "Desconocida",
+  "loading_stations": "Cargando estaciones...",
+  "error_stations": "Error al cargar las estaciones.",
+  "showing_stations": "Mostrando {{count}} estaciones de la red seleccionada",
+  "back": "← Volver a redes",
+  "order_by_availability": "Ordenar por disponibilidad",
+  "higher_to_lower": "Mayor → Menor",
+  "lower_to_higher": "Menor → Mayor",
+  "free_bikes": "Bicis libres",
+  "empty_slots": "Slots vacíos",
+  "view_on_map": "Ver en Google Maps",
+  "low": "Baja",
+  "medium": "Media",
+  "high": "Alta",
+  "time_minutes_ago": "hace {{count}} min",
+  "time_hours_ago": "hace {{count}}h"
+}
