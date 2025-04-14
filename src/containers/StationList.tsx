@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import { useNetworkStations } from '../hooks/useCityBikes';
 import StationCard from '../components/StationCard';
 import { ArrowDown, ArrowUp } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
+import { useNetworkStations } from '../hooks/useNetworkStations';
 
 type Props = {
   networkId: string;
@@ -33,10 +33,7 @@ const StationsList = ({ networkId }: Props) => {
           {t('showing_stations', { count: sortedStations.length })}
         </p>
 
-        <button
-          onClick={toggleOrder}
-          className="px-4 py-2 text-sm bg-blue-600 text-white rounded shadow hover:bg-blue-700 transition inline-flex items-center gap-2"
-        >
+        <button onClick={toggleOrder} className="btn-base btn-primary">
           {orderDirection === 'desc' ? (
             <>
               {t('higher_to_lower')} <ArrowDown className="w-4 h-4" />
