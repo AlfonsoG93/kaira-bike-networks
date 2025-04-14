@@ -33,4 +33,4 @@ npm install
 ### 3. Start the dev server
 npm run dev
 
-App will be available at: http://localhost:5173
+### App will be available at: http://localhost:5173
